@@ -1,0 +1,6 @@
+,,,,,,
+Experiment,Hidden Layers,Neurons,Learning Rate,Batch Size,Epochs,Accuracy
+Baseline,1,32,0.001,32,50,0.991
+Experiment1,1,64,0.001,32,50,0.993
+Experiment2,1,32,0.01,32,50,0.985
+Experiment3,2,64,0.001,64,100,0.992
